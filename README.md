@@ -1,13 +1,12 @@
 <header>
-  Hi guys. My name is...
-  <h2>Sakura🌸</h2>
+  <h2>🌸Sakura🌸</h2>
 </header>
 
 - 🖋 I’m currently an ASU student majoring in GIT. My dream is to be an Graphic/UIUX designer who can code websites and apps
 - 🐱 I'm a cat lover...
 - 🇯🇵 I'm a Japanese, who was born and raised in Japan.(I've only been to the US once)
-- 💕 I love K-drmas and anime
-- 😅 I have just started learning code. A complete begginer. Please be nice to me...
+- 💕 I love Kpop, K-dramas and anime
+- 
 
 Although I have just started learning how to code, it is already fun. It is satisfying, especially when my codes turn into an actual layout and webpage that I wanted.
 
