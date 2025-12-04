@@ -12,10 +12,10 @@
 Although I have just started learning how to code, it is already fun. It is satisfying, especially when my codes turn into an actual layout and webpage that I wanted.
 
 <h3>🔗 Links</h3>
-- <h4>Portfolio:</h4> https://sakku0794.wixsite.com/myportfolio
-- <h4>CodePen:</h4> https://codepen.io/Sakura-Tanikawa
--  <h4>Behance:</h4>https://www.behance.net/sakuratanikawa1
-- <h4>LinkedIn:</h4> www.linkedin.com/in/sakuratanikawa
+<h4>Portfolio:</h4> https://sakku0794.wixsite.com/myportfolio
+<h4>CodePen:</h4> https://codepen.io/Sakura-Tanikawa
+<h4>Behance:</h4>https://www.behance.net/sakuratanikawa1
+<h4>LinkedIn:</h4> www.linkedin.com/in/sakuratanikawa
 
 
 
