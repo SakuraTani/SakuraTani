@@ -1,4 +1,4 @@
-#🌸Sakura🌸
+# 🌸Sakura🌸
 
 - 🖋 I’m currently an ASU student majoring in GIT. My dream is to be an Graphic/UIUX designer who can code websites and apps
 - 🐱 I'm a cat lover...
